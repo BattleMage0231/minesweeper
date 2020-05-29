@@ -2,7 +2,7 @@
 
 This is a recreation of the original Minesweeper game on Windows 3.1, which was first released in 1990.
 
-![](screenshots/screenshot.png)
+![](screenshots/screenshot.PNG)
 
 # Requirements
 
